@@ -1,6 +1,6 @@
 # The Chrome's dinosaur game but in terminal
 ## 
-``` 
-~bash
+```bash
+
 bash dino.sh 
 ```
