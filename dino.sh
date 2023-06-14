@@ -11,7 +11,7 @@ alive=1
 score=0
 
 N_ROW=5
-N_COL=80
+N_COL=50
 
 CHARACTER="🦖"
 OBSTACLE="🌵"
